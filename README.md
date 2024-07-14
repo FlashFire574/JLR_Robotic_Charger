@@ -8,5 +8,12 @@
 - Through BLE Beacon of the car and the Bluetooth sensors, the approximate location of the socket is conveyed to the charging port. The camera then guides the manipulator further to the exact location via image processing by detecting an Aruco Marker placed near the charging port.
 
 
+- Overview of Algorithm used
+![alt text](1.png)
+
+- Charging Socket Dectection
+![alt text](2.png)
+
+![alt text](3.png)
 
 
