@@ -1,6 +1,6 @@
 # AUTHOR: SHASHANK KUMAR RANJAN, IIT GUWAHATI
 # CO-AUTHOR: KHUSHI AGARWAL, IIT GUWAHATI
-
+# Reviewer: Aditya Joshi, IIT GUWAHATI
 # import libraries
 import numpy as np
 from utils import ARUCO_DICT, aruco_display

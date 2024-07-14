@@ -1,5 +1,6 @@
 # AUTHOR: SHASHANK KUMAR RANJAN, IIT GUWAHATI
 # CO-AUTHOR: KHUSHI AGARWAL, IIT GUWAHATI
+# Reviewer: Aditya Joshi, IIT GUWAHATI
 
 import cv2 as cv
 import numpy as np
