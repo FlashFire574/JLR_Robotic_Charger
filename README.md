@@ -1,5 +1,5 @@
 # Autonomous-Vehicle-Charging-System
--Problem statement by Jaguar Land Rover in Inter-IIT Tech Meet 11.0. 
+- Problem statement by Jaguar Land Rover in Inter-IIT Tech Meet 11.0. 
 
 - With the rise of EVs. Devising a system that can automatically detect the vehicle's charging port and plug the socket into the charging port is one step to advancing EV infrastructure.
 
